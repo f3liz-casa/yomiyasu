@@ -26,6 +26,7 @@ class SkillPackageTests(unittest.TestCase):
             "references/domains/tech.md",
             "references/domains/business.md",
             "references/domains/essay.md",
+            "references/domains/shiro.md",
             "scripts/yomiyasu_lint.py",
             "scripts/yomiyasu_diff.py",
             "scripts/markdown_visibility.py",

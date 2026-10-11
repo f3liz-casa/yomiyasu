@@ -301,7 +301,7 @@ python3 scripts/yomiyasu_diff.py --endings 対象文.md
 ├── references/                       # スキル参照ドキュメント
 │   ├── gemini-syntax.md              # 構文変換原則
 │   ├── slop-catalog.md               # 不自然な語彙・構文カタログ
-│   └── domains/                      # ドメイン別指針（tech, business, essay）
+│   └── domains/                      # ドメイン別指針（tech, business, essay, shiro）
 ├── skills/                           # 配布用スキル（唯一のSKILL.mdと参照文書・検査ツール）
 │   └── yomiyasu/
 │       ├── SKILL.md
